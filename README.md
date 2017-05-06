@@ -1,2 +1,2 @@
 # google-homepage
-building google home page using html&amp;css
+building google.com homepage using html&amp;css
