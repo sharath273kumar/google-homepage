@@ -1,0 +1,88 @@
+.navbar{
+	text-align: right; 
+	height: auto;
+}
+#notify{
+	box-sizing: border-box;
+	height: 30px;
+	width: 30px;
+	padding: 0px;
+	margin: 5px;
+	background-color: rgba(0,0,0,0.5);
+	border-radius: 25px;
+}
+.navbar ul{
+	height: 50px;
+}
+#images{
+	height: 30px;
+}
+#gmail{
+	height: 30px;
+}
+#profile_pic{
+	border-radius: 25px;
+	height: 30px;
+	width: 30px;
+}
+.navbar li{
+	display: inline-block;
+	font-size: 14px;
+	padding: 8px; 
+}
+#google_img{
+	margin-top: 8%; 
+	margin-left: 38%;
+	height: 100px;
+	width: 300px;
+}
+#search{
+	margin-left: 30%;
+	height: 40px;
+	width: 500px;
+}
+#box{
+	width: 510px;
+	height: 25px;
+	border-radius: 1px;
+	box-shadow: grey;
+}
+.g_search, .lucky{
+	background-color: #f2f2f2;
+	border-radius: 1px;
+}
+.buttons{
+	margin-left: 40%
+}
+button{
+	height:25px; 
+}
+.lang{
+	margin-left: 35%;
+}
+.footbar{
+	background: rgb(228,228,228);
+	display: inline;
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+}
+footer div ul{
+	display: block;
+	padding: 0px;
+	font-size: 14px;
+	word-spacing: 10px;
+}
+footer div ul span li{
+	display: inline-block;
+}
+.left{
+	text-align: left;
+}
+.right{
+	float: right;
+	margin-right: 20px;
+}
+li a{
+	color: black;
+}
